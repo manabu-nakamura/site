@@ -22,5 +22,5 @@ gem 'jekyll-redirect-from'
 gem 'webrick', '>= 1.8.2'
 
 group :jekyll_plugins do
-  gem 'jekyll-polyglot'
+  gem 'jekyll-polyglot', '1.11.0'
 end
